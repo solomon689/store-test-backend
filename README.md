@@ -22,3 +22,6 @@ Su funcionalidad principal es entregar los productos filtrados de acuerdo a par�
   - **DATABASE_PASSWORD**: Contraseña de la base de datos.
   - **DATABASE_NAME**: Nombre de la base de datos.
 - Correr proyecto con el comando **npm run start:dev**
+
+### Documentación endpoints API
+Para revisar la documentación de la API digirase al siguiente link => https://documenter.getpostman.com/view/14217451/2s8YesqWr4
