@@ -23,10 +23,6 @@ export class DataSource {
         return DataSource.instance;
     }
 
-    public createPool(): void {
-        
-    }
-
     public async query(query: string, params?: any[]): Promise<any> {
         try {
             const [test] = await this.pool.query(query, params);
